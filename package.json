@@ -31,7 +31,7 @@
   "dependencies": {
     "axios": "^0.15.3",
     "ramda": "^0.23.0",
-    "ramdasauce": "^1.1.1"
+    "ramdasauce": "git+https://github.com/hubciorz/ramdasauce"
   },
   "devDependencies": {
     "ava": "^0.17.0",
